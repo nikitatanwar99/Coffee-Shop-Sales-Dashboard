@@ -107,3 +107,6 @@ Supports inventory planning based on most sold coffee items
 Improves pricing decisions with product-level performance
 
 Reduces wastage by understanding low-demand time slots
+
+**Screenshot**:
+![Dashboard Preview](images/dashboard-preview.png)
