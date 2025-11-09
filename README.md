@@ -20,7 +20,7 @@ The dashboard was built using the following tools and technologies:
 
 🧠 DAX Measures – KPI calculations (Total Sales, Avg. Bill, Total Orders etc.)
 
-📝 Data Modelling – Star Schema for store, product, and date dimensions
+📝 Data Modelling –  date dimensions
 
 📁 File Format – .pbix for development + .png for dashboard preview
 
@@ -50,6 +50,7 @@ This dataset helps analyse customer buying behaviour and store-level demand patt
 
 **Features**
 
+
 • **Business Problem**
 
 Multiple store coffee chains collect tonnes of daily transaction data, but manual analysis makes it difficult to know:
@@ -59,6 +60,7 @@ which store is performing best
 which drink/food item drives revenue
 
 what time customers spend most
+
 
 • **Goal of the Dashboard**
 
@@ -71,6 +73,7 @@ identifies top selling products
 compares store-wise transactions
 
 understands hourly & daily demand pattern
+
 
 • **Walkthrough of Key Visuals**
 
