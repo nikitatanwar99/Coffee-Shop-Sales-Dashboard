@@ -109,4 +109,4 @@ Improves pricing decisions with product-level performance
 Reduces wastage by understanding low-demand time slots
 
 **Screenshot**:
-![Dashboard](https://github.com/nikitatanwar99/<repo-name>/blob/main/images/dashboard-preview.png)
+![Dashboard](https://github.com/nikitatanwar99/Coffee-Shop-Sales-Dashboard/blob/main/Screenshot.png)
